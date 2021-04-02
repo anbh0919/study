@@ -7,8 +7,6 @@
 </head>
 <body>
 	<h1>m.jsp입니다.</h1>
-	<b>수정했습니다.</b>
-	<h2>local 1-2</h2>
-	<h1>수정본</h1>
+	<h2>local-7</h2>
 </body>
 </html>
